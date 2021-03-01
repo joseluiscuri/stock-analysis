@@ -10,8 +10,11 @@ Analysis needed:
 ### Results
 ##### Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 While 2017 saw a grow in the return of the stock for almost all companies (11 out of 12), 2018 cannot be considered as a successat all (only 2 out of 12).
+<img width="215" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/25446419/109451016-1083b880-7a12-11eb-86e8-7fd29d0d472d.png">
+<img width="266" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/25446419/109451017-111c4f00-7a12-11eb-8cb6-a3c2ee5148d7.png">
 
-Also, I refactored my code achieving around 70% of efficiency when running the macro (lowered from .5 to .15 seconds)
+
+Also, I refactored my code achieving around 70% of efficiency when running the macro (lowered from .5 to .15 seconds). Results can be find in the Resources folder.
 
 ### Summary
 #####  What are the advantages or disadvantages of refactoring code?
